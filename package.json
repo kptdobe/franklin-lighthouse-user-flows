@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "lighthouse-user-flows",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colorette": "2.0.19",
+    "lighthouse": "9.6.8",
+    "open": "8.4.0",
+    "puppeteer": "19.2.1"
+  }
+}
